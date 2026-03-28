@@ -9,7 +9,9 @@
 ## Version: 0.8.0
 ## Notes: Allows on-demand addons to load automatically based upon simple event notification hooks [3.9.0.0971] This AddOn is licenced under the GNU GPL, see GPL.txt for details.
 ## Notes:Toolbox for Noobies.
+## DefaultState: enabled
 
+## SavedVariables: AR_MinCost, AR_Save
 ## SavedVariables: Lern2SpellDB
 ## SavedVariables: StubbyConfig
 
@@ -33,6 +35,8 @@ Libs\SpecialEvents-LearnSpell-2.0\SpecialEvents-LearnSpell-2.0.lua
 ## LIBS END
 
 Lern2Spell.lua
+
+AutoRepair.xml
 
 Stubby.lua
 Stubby.xml
